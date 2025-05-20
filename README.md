@@ -43,8 +43,9 @@ Welcome to my GitHub! I'm a passionate developer and lifelong learner with a gro
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+### 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SouravO&show_icons=true&theme=tokyonight" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SouravO&theme=tokyonight" height="170" /> </p>  
 
 *“Keep learning. Keep building. Keep growing.”*
 
 Thanks for visiting! 😊  
-![Metrics](https://raw.githubusercontent.com/SouravO/SouravO/main/github-metrics.svg)
