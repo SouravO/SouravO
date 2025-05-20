@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=SouravO&label=Profile%20views&color=0e75b6&style=flat)
+
 ## 👋 Hi, I'm Sourav 
 Welcome to my GitHub! I'm a passionate developer and lifelong learner with a growing interest in software development, data science, and everything in between. Whether it’s building web applications, exploring machine learning, or contributing to open source, I love creating things that solve real-world problems.
 
