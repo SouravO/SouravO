@@ -47,4 +47,4 @@ Welcome to my GitHub! I'm a passionate developer and lifelong learner with a gro
 *“Keep learning. Keep building. Keep growing.”*
 
 Thanks for visiting! 😊  
-![Metrics](https://raw.githubusercontent.com/yourusername/SouravO/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/SouravO/SouravO/main/github-metrics.svg)
